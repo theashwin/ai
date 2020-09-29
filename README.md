@@ -2,4 +2,4 @@
 
 + Machine Learning
 	+ Supervised
-	+ Unsupervised
+	+ Reinforcement
